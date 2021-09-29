@@ -1,0 +1,26 @@
+#root {
+    color: #70ff4c;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+    margin-top: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+body {
+    background-color: #000000;
+}
+
+.input 
+{
+    background-color: #7fe764;
+    border: solid #7fe764;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+
+.todo {
+    border-radius: 5px;
+    border: 1px solid #71ff4c;
+}
